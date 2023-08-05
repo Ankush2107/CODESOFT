@@ -23,8 +23,3 @@ This is a simple Java console application called "Number Game" where the user is
 6. In each round, a random secret number is generated between 1 and 100, and the user has a limited number of attempts (default is 10) to guess the number correctly.
 7. After each guess, the program provides feedback and updates the number of attempts left.
 8. If the user guesses the correct number within the allowed attempts, they win the game. Otherwise, the game informs them of the correct number.
-
-## Customization
-
-- You can customize the range of the secret number by changing the `minRange` and `maxRange` variables in the `main` method.
-- You can adjust the number of attempts allowed by modifying the `maxAttempts` variable in the `main` method.
